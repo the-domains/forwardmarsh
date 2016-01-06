@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[ForwardMarsh]]></title>
         <description><![CDATA[ForwardMarsh]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/forwardmarsh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 05:50:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 06:32:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/forwardmarsh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5b11135-2931-4fa6-bc77-d4fac05e6d96.jpg">]]></description>
+            <link>https://thegrid.ai/forwardmarsh/c4beb05a-5255-423a-946b-b4eaaa2df711/index.html</link>
+            <guid isPermaLink="false">c4beb05a-5255-423a-946b-b4eaaa2df711</guid>
+            <pubDate>Wed, 06 Jan 2016 06:32:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wholly Spirited]]></title>
             <description><![CDATA[<article><h1>Wholly Spirited</h1><p>My soul is eternal. And, I am here, on Earth, full of love and peace,
  doubt and fear. I am individual, yet I am connected to all matter. I am
  a drop in the universe; I am the universe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6a18c6ebab1ba95a70f6db49e9f60ed638dcdd.jpg"></article>]]></description>
-            <link>undefinedwholly-spirited/index.html</link>
+            <link>https://thegrid.ai/forwardmarsh/wholly-spirited/index.html</link>
             <guid isPermaLink="false">95adf1e3-ce93-437b-9d5a-733aad628c17</guid>
             <pubDate>Wed, 06 Jan 2016 05:50:25 GMT</pubDate>
         </item>

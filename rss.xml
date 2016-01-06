@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ForwardMarsh]]></title>
+        <description><![CDATA[ForwardMarsh]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 05:50:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wholly Spirited]]></title>
+            <description><![CDATA[<article><h1>Wholly Spirited</h1><p>My soul is eternal. And, I am here, on Earth, full of love and peace,
+ doubt and fear. I am individual, yet I am connected to all matter. I am
+ a drop in the universe; I am the universe.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c6a18c6ebab1ba95a70f6db49e9f60ed638dcdd.jpg"></article>]]></description>
+            <link>undefinedwholly-spirited/index.html</link>
+            <guid isPermaLink="false">95adf1e3-ce93-437b-9d5a-733aad628c17</guid>
+            <pubDate>Wed, 06 Jan 2016 05:50:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
